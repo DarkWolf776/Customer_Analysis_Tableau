@@ -1,5 +1,7 @@
 "Insights into Insurance Demographics: A Tableau Dashboard Analysis"
 
+https://public.tableau.com/app/profile/andrew.clifft/viz/CustomerAnalysis_17103466541810/MainStory?publish=yes
+
 Objective:
 The objective of this project is to analyze and visualize insurance demographics data using Tableau to gain insights into the characteristics of insured individuals. By creating an interactive dashboard, the project aims to provide a comprehensive overview of key demographic factors such as age, gender, occupation, and policy types.
 
